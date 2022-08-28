@@ -1,6 +1,6 @@
 <h1 id="header" align ="centre">Unity Code</h1>
 <body>
- <p>This reposity includes some of my unity code from past projects, this does not include any assets</p>
+ <p>This repository includes some of my unity code from past projects, this does not include any assets</p>
  <p>Project</p>
  <p>
  RPG Project <br>
